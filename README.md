@@ -13,3 +13,5 @@ Interview Repo for MFG
   * PUT /api/good: put by json in body an existing Good to update it
   * DELETE /api/good/{id}: delete a Good by it's id
   * GET /api/good/{id}: get a good by it's id
+  
+  test
